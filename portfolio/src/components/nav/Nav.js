@@ -19,8 +19,11 @@ function Nav() {
             <a href="mailto:brandybeckerfsw@gmail.com" target="_blank"><i class="fas fa-envelope" ></i></a>
         </div>
         <ul class="tabs">
-            <li class="link">About Me</li>
-            <li class="link">Skills</li>
+
+          {/* use react router to link to the right pages & sections */}
+
+            <li class="link"><a href="#about">About Me</a></li>
+            <li class="link"><a href="#skills">Skills</a></li>
             <li class="link">Projects</li>
             <li class="link">Resume</li>
             <li class="link">Contact</li>
