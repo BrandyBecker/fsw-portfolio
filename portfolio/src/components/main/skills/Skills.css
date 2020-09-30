@@ -23,15 +23,14 @@
 .skillssections{
     display: flex;
     justify-content: space-evenly;
+    flex-direction: column;
 }
 .skill{
     background-color: #a7718d;
     padding: 1rem;
     border-radius: 1rem;
     box-shadow: 0.5rem 0.5rem  #613b4e;
-}
-.skills {
-    max-width: 15rem;
+    margin-bottom: 1rem;
 }
 .skill h1{
     font-size: 1.5rem;
@@ -51,17 +50,11 @@
     .skillstitle{
         font-size: 1.25rem;
     }
-    .skill{
-        margin: 1rem;
-    }
 }
 
 /* Mobile */
 @media (max-width: 82em) {
     .skillssections{
         flex-direction: column;
-    }
-    .skill{
-        margin: 1rem;
     }
 }
