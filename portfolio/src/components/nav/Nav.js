@@ -19,11 +19,11 @@ function Nav() {
             <i class="fas fa-envelope"></i>
         </div>
         <ul class="tabs">
-            <li>About Me</li>
-            <li>Skills</li>
-            <li>Projects</li>
-            <li>Resume</li>
-            <li>Contact</li>
+            <li class="link">About Me</li>
+            <li class="link">Skills</li>
+            <li class="link">Projects</li>
+            <li class="link">Resume</li>
+            <li class="link">Contact</li>
         </ul>
       </div>
     </div>
