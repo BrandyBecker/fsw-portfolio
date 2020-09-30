@@ -18,6 +18,12 @@
     width: 18rem;
     border: 0.075rem dashed white;
     padding: 1rem;
+    background-color: var(--secondary);
+    transition: 1s;
+}
+.pfp:hover{
+    box-shadow: 0 0 1rem white;
+    transform: scale(1.1);
 }
 .name{
     font-family: 'Satisfy', cursive;
@@ -46,12 +52,14 @@ ul{
     border-radius: 5rem;
     opacity: 0.5;
     transition: 1s;
+    background-color: #59405c;
 }
 .link:hover{
     background-color: var(--secondary);
     font-style: italic;
     border: 0.075rem solid white;
     opacity: 1;
+    box-shadow: 0 0 1rem white;
 }
 .socials{
     padding-top: 0.5rem;
