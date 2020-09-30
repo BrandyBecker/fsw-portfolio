@@ -13,10 +13,10 @@ function Nav() {
             <p>( 22 | 🐈 | 💻 | ☕ )</p>
         </div>
         <div className="socials">
-            <i class="fab fa-github" href="#" target="_blank"></i>
-            <i class="fab fa-linkedin-in"></i>
-            <i class="fab fa-twitter"></i>
-            <i class="fas fa-envelope"></i>
+            <a href="https://github.com/BrandyBecker" target="_blank"><i class="fab fa-github" ></i></a>
+            <a href="https://www.linkedin.com/in/brandybeckerfsw/" target="_blank"><i class="fab fa-linkedin-in" ></i></a>
+            <a href="https://twitter.com/16brbecker" target="_blank"><i class="fab fa-twitter" ></i></a>
+            <a href="mailto:brandybeckerfsw@gmail.com" target="_blank"><i class="fas fa-envelope" ></i></a>
         </div>
         <ul class="tabs">
             <li class="link">About Me</li>
