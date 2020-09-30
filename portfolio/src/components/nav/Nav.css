@@ -9,8 +9,6 @@
 /* Wesbite */
 .Nav {
     background-color: var(--main);
-    display: flex;
-    flex-direction: column;
     min-width: 25rem;
 }
 .pfp{
@@ -78,6 +76,28 @@ li:hover{
 }
 
 /* Mobile */
-
+@media (max-width: 43em) {
+    .info{
+        margin: 0;
+    }
+    .pfp{
+        display: none;
+    }
+    *{
+        font-size: 0.80rem;
+    }
+    .lilabout{
+        display: none;
+    }
+}
 
 /* Tablet */
+@media (max-width: 62em) {
+    /* .info{
+        margin: 0;
+    }
+    *{
+        font-size: 1rem;
+        width: 99%;
+    } */
+}

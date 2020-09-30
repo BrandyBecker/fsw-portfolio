@@ -13,6 +13,8 @@
     border-radius: 2rem;
     color: white;
     background-color: var(--compliment);
+    box-shadow: 1rem 1rem #384850;
+    border: 0.01rem solid #627783;
 }
 .aboutmetitle{
     border-bottom: 0.01rem dashed white;
@@ -31,4 +33,14 @@
 .title:hover{
     box-shadow: white;
     text-shadow:0 0 1rem white;
+}
+
+/* Mobile */
+@media (max-width: 43em) {
+    .aboutmetitle{
+        font-size: 1.25rem;
+    }
+    .paragraph{
+        text-align: center;
+    }
 }
