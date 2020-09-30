@@ -22,8 +22,8 @@ function Nav() {
 
           {/* use react router to link to the right pages & sections */}
 
-            <li class="link"><a href="#about">About Me</a></li>
-            <li class="link"><a href="#skills">Skills</a></li>
+            <a href="#about"><li class="link">About Me</li></a>
+            <a href="#skills"><li class="link">Skills</li></a>
             <li class="link">Projects</li>
             <li class="link">Resume</li>
             <li class="link">Contact</li>
