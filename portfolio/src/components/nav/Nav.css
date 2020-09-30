@@ -36,7 +36,7 @@ ul{
     list-style: none;
     padding-left: 0;
 }
-li {
+.link {
     list-style-type: none;
     font-size: 1.5rem;
     font-weight: lighter;
@@ -47,7 +47,7 @@ li {
     opacity: 0.5;
     transition: 1s;
 }
-li:hover{
+.link:hover{
     background-color: var(--secondary);
     font-style: italic;
     border: 0.075rem solid white;
