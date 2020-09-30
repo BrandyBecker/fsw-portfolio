@@ -4,9 +4,9 @@ full stack web portfolio built with react, javascript, html & css
 ---
 
 ## (- Nav Bar -)
-[] about me
+[x] about me
 
-[] skills
+[x] skills
 
 [] projects
 
@@ -17,13 +17,13 @@ full stack web portfolio built with react, javascript, html & css
 ---
 
 ## (- About Me -)
-[] full name
+[x] full name
 
-[] profile picture
+[x] profile picture
 
-[] personal statement about who i am
+[x] personal statement about who i am
 
-[] title
+[x] title
 
 ---
 

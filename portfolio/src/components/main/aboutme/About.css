@@ -43,4 +43,14 @@
     .paragraph{
         text-align: center;
     }
+    .title{
+        font-size: 2rem;
+    }
+}
+
+/* Tablet */
+@media (max-width: 62em) {
+    .title{
+        font-size: 1.8rem;
+    }
 }
