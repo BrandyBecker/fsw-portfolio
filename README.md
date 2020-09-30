@@ -6,7 +6,7 @@ full stack web portfolio built with react, javascript, html & css
 ## (- Nav Bar -)
 [x] about me
 
-[x] skills
+[x] skills 
 
 [] projects
 
