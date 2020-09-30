@@ -50,17 +50,11 @@
     .skillstitle{
         font-size: 1.25rem;
     }
-    .skill{
-        margin: 1rem;
-    }
 }
 
 /* Mobile */
 @media (max-width: 82em) {
     .skillssections{
         flex-direction: column;
-    }
-    .skill{
-        margin: 1rem;
     }
 }
