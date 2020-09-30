@@ -1,0 +1,46 @@
+/* Variables */
+:root{
+    --main: #322f3d;
+    --secondary: #59405c;
+    --tertiary: #87556f;
+    --compliment: #4b5d67;
+}
+
+/* Website */
+.About{
+    margin: 3rem;
+    padding: 2rem;
+    border-radius: 2rem;
+    color: white;
+    background-color: var(--compliment);
+    box-shadow: 1rem 1rem #384850;
+    border: 0.01rem solid #627783;
+}
+.aboutmetitle{
+    border-bottom: 0.01rem dashed white;
+    margin-bottom: 2rem;
+}
+.paragraph{
+    font-size: 1.25rem;
+    font-weight: lighter;
+    line-height: 125%;
+}
+.title{
+    font-size: 2.5rem;
+    font-family: 'Satisfy', cursive;
+    transition: all 0.2s ease-in;
+}
+.title:hover{
+    box-shadow: white;
+    text-shadow:0 0 1rem white;
+}
+
+/* Mobile */
+@media (max-width: 43em) {
+    .aboutmetitle{
+        font-size: 1.25rem;
+    }
+    .paragraph{
+        text-align: center;
+    }
+}

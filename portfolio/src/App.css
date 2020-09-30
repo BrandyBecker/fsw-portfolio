@@ -1,0 +1,22 @@
+.App{
+    display: flex;
+    cursor: url(cursormouse.png), auto;
+}
+
+/* Mobile */
+@media (max-width: 43em) {
+    .App{
+        flex-direction: column;
+    }
+}
+
+/* Tablet */
+@media (max-width: 82em) {
+    .App{
+        flex-direction: column;
+    }
+}
+
+/* Smaller Screens */
+@media (max-width: 82em) {
+}

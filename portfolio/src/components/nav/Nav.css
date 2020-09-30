@@ -1,14 +1,15 @@
+/* Variables */
 :root{
     --main: #322f3d;
     --secondary: #59405c;
     --tertiary: #87556f;
     --compliment: #4b5d67;
 }
+
+/* Wesbite */
 .Nav {
     background-color: var(--main);
-    display: flex;
-    flex-direction: column;
-    max-width: 25rem;
+    min-width: 25rem;
 }
 .pfp{
     border-radius: 100%;
@@ -72,4 +73,31 @@ li:hover{
     margin: 0;
     font-weight: lighter;
     opacity: 0.95;
+}
+
+/* Mobile */
+@media (max-width: 43em) {
+    .info{
+        margin: 0;
+    }
+    .pfp{
+        display: none;
+    }
+    *{
+        font-size: 0.80rem;
+    }
+    .lilabout{
+        display: none;
+    }
+}
+
+/* Tablet */
+@media (max-width: 62em) {
+    /* .info{
+        margin: 0;
+    }
+    *{
+        font-size: 1rem;
+        width: 99%;
+    } */
 }
