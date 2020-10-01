@@ -22,7 +22,10 @@ function ControlledCarousel() {
           />
           <Carousel.Caption>
             <h3>First slide label</h3>
+            <h8>Dates of Development</h8>
+            <h6>Role</h6>
             <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+            <h6>Tech Stack Used</h6>
             <div class="deployed_codebase">
               <a href=""><i class="fas fa-globe"></i></a>
               <a href=""><i class="fab fa-github"></i></a>
@@ -39,7 +42,10 @@ function ControlledCarousel() {
   
           <Carousel.Caption>
             <h3>Second slide label</h3>
+            <h8>Dates of Development</h8>
+            <h6>Role</h6>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            <h6>Tech Stack Used</h6>
             <div class="deployed_codebase">
               <a href=""><i class="fas fa-globe"></i></a>
               <a href=""><i class="fab fa-github"></i></a>
@@ -55,9 +61,12 @@ function ControlledCarousel() {
   
           <Carousel.Caption>
             <h3>Third slide label</h3>
+            <h8>Dates of Development</h8>
+            <h6>Role</h6>
             <p>
               Praesent commodo cursus magna, vel scelerisque nisl consectetur.
             </p>
+            <h6>Tech Stack Used</h6>
             <div class="deployed_codebase">
               <a href=""><i class="fas fa-globe"></i></a>
               <a href=""><i class="fab fa-github"></i></a>

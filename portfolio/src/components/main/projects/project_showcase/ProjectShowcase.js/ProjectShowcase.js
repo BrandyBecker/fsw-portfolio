@@ -19,7 +19,10 @@ function ProjectShowcase() {
               alt="project"
             />
             <h2>Title</h2>
+            <h8>Dates of Development</h8>
+            <h6>Role</h6>
             <p>Project Desc</p>
+            <h6>Tech Stack Used</h6>
             <div class="deployed_codebase">
               <a href=""><i class="fas fa-globe"></i></a>
               <a href=""><i class="fab fa-github"></i></a>
@@ -32,7 +35,10 @@ function ProjectShowcase() {
               alt="project"
             />
             <h2>Title</h2>
+            <h8>Dates of Development</h8>
+            <h6>Role</h6>
             <p>Project Desc</p>
+            <h6>Tech Stack Used</h6>
             <div class="deployed_codebase">
               <a href=""><i class="fas fa-globe"></i></a>
               <a href=""><i class="fab fa-github"></i></a>
@@ -45,7 +51,10 @@ function ProjectShowcase() {
               alt="project"
             />
             <h2>Title</h2>
+            <h8>Dates of Development</h8>
+            <h6>Role</h6>
             <p>Project Desc</p>
+            <h6>Tech Stack Used</h6>
             <div class="deployed_codebase">
               <a href=""><i class="fas fa-globe"></i></a>
               <a href=""><i class="fab fa-github"></i></a>
@@ -58,7 +67,10 @@ function ProjectShowcase() {
               alt="project"
             />
             <h2>Title</h2>
+            <h8>Dates of Development</h8>
+            <h6>Role</h6>
             <p>Project Desc</p>
+            <h6>Tech Stack Used</h6>
             <div class="deployed_codebase">
               <a href=""><i class="fas fa-globe"></i></a>
               <a href=""><i class="fab fa-github"></i></a>
@@ -71,7 +83,10 @@ function ProjectShowcase() {
               alt="project"
             />
             <h2>Title</h2>
+            <h8>Dates of Development</h8>
+            <h6>Role</h6>
             <p>Project Desc</p>
+            <h6>Tech Stack Used</h6>
             <div class="deployed_codebase">
               <a href=""><i class="fas fa-globe"></i></a>
               <a href=""><i class="fab fa-github"></i></a>
@@ -84,7 +99,10 @@ function ProjectShowcase() {
               alt="project"
             />
             <h2>Title</h2>
+            <h8>Dates of Development</h8>
+            <h6>Role</h6>
             <p>Project Desc</p>
+            <h6>Tech Stack Used</h6>
             <div class="deployed_codebase">
               <a href=""><i class="fas fa-globe"></i></a>
               <a href=""><i class="fab fa-github"></i></a>
@@ -97,7 +115,10 @@ function ProjectShowcase() {
               alt="project"
             />
             <h2>Title</h2>
+            <h8>Dates of Development</h8>
+            <h6>Role</h6>
             <p>Project Desc</p>
+            <h6>Tech Stack Used</h6>
             <div class="deployed_codebase">
               <a href=""><i class="fas fa-globe"></i></a>
               <a href=""><i class="fab fa-github"></i></a>
@@ -110,7 +131,10 @@ function ProjectShowcase() {
               alt="project"
             />
             <h2>Title</h2>
+            <h8>Dates of Development</h8>
+            <h6>Role</h6>
             <p>Project Desc</p>
+            <h6>Tech Stack Used</h6>
             <div class="deployed_codebase">
               <a href=""><i class="fas fa-globe"></i></a>
               <a href=""><i class="fab fa-github"></i></a>
@@ -123,7 +147,10 @@ function ProjectShowcase() {
               alt="project"
             />
             <h2>Title</h2>
+            <h8>Dates of Development</h8>
+            <h6>Role</h6>
             <p>Project Desc</p>
+            <h6>Tech Stack Used</h6>
             <div class="deployed_codebase">
               <a href=""><i class="fas fa-globe"></i></a>
               <a href=""><i class="fab fa-github"></i></a>
@@ -136,7 +163,10 @@ function ProjectShowcase() {
               alt="project"
             />
             <h2>Title</h2>
+            <h8>Dates of Development</h8>
+            <h6>Role</h6>
             <p>Project Desc</p>
+            <h6>Tech Stack Used</h6>
             <div class="deployed_codebase">
               <a href=""><i class="fas fa-globe"></i></a>
               <a href=""><i class="fab fa-github"></i></a>
