@@ -42,6 +42,23 @@
     box-shadow: 1rem 1rem #344249;
   }
 
+.deployed_codebase{
+    padding-top: 0.5rem;
+}
+.deployed_codebase i{
+    margin: 1rem;
+    font-size: 2rem;
+    opacity: 0.5;
+    transition: 1s;
+}
+.deployed_codebase i:hover{
+    opacity: 1;
+    transform: rotate(360deg);
+}
+.deployed_codebase a{
+    color: white;
+}
+
   /* Mobile */
 @media (max-width: 43em) {
     

@@ -20,6 +20,10 @@ function ProjectShowcase() {
             />
             <h2>Title</h2>
             <p>Project Desc</p>
+            <div class="deployed_codebase">
+              <a href=""><i class="fas fa-globe"></i></a>
+              <a href=""><i class="fab fa-github"></i></a>
+            </div>
           </div>
 
           <div className="project">
@@ -29,6 +33,10 @@ function ProjectShowcase() {
             />
             <h2>Title</h2>
             <p>Project Desc</p>
+            <div class="deployed_codebase">
+              <a href=""><i class="fas fa-globe"></i></a>
+              <a href=""><i class="fab fa-github"></i></a>
+            </div>
           </div>
 
           <div className="project">
@@ -38,6 +46,10 @@ function ProjectShowcase() {
             />
             <h2>Title</h2>
             <p>Project Desc</p>
+            <div class="deployed_codebase">
+              <a href=""><i class="fas fa-globe"></i></a>
+              <a href=""><i class="fab fa-github"></i></a>
+            </div>
           </div>
 
           <div className="project">
@@ -47,6 +59,10 @@ function ProjectShowcase() {
             />
             <h2>Title</h2>
             <p>Project Desc</p>
+            <div class="deployed_codebase">
+              <a href=""><i class="fas fa-globe"></i></a>
+              <a href=""><i class="fab fa-github"></i></a>
+            </div>
           </div>
 
           <div className="project">
@@ -56,6 +72,10 @@ function ProjectShowcase() {
             />
             <h2>Title</h2>
             <p>Project Desc</p>
+            <div class="deployed_codebase">
+              <a href=""><i class="fas fa-globe"></i></a>
+              <a href=""><i class="fab fa-github"></i></a>
+            </div>
           </div>
 
           <div className="project p">
@@ -65,6 +85,10 @@ function ProjectShowcase() {
             />
             <h2>Title</h2>
             <p>Project Desc</p>
+            <div class="deployed_codebase">
+              <a href=""><i class="fas fa-globe"></i></a>
+              <a href=""><i class="fab fa-github"></i></a>
+            </div>
           </div>
 
           {/* <div className="project p">
@@ -74,6 +98,10 @@ function ProjectShowcase() {
             />
             <h2>Title</h2>
             <p>Project Desc</p>
+            <div class="deployed_codebase">
+              <a href=""><i class="fas fa-globe"></i></a>
+              <a href=""><i class="fab fa-github"></i></a>
+            </div>
           </div>
 
           <div className="project p">
@@ -83,6 +111,10 @@ function ProjectShowcase() {
             />
             <h2>Title</h2>
             <p>Project Desc</p>
+            <div class="deployed_codebase">
+              <a href=""><i class="fas fa-globe"></i></a>
+              <a href=""><i class="fab fa-github"></i></a>
+            </div>
           </div>
 
           <div className="project p">
@@ -92,6 +124,10 @@ function ProjectShowcase() {
             />
             <h2>Title</h2>
             <p>Project Desc</p>
+            <div class="deployed_codebase">
+              <a href=""><i class="fas fa-globe"></i></a>
+              <a href=""><i class="fab fa-github"></i></a>
+            </div>
           </div>
 
           <div className="project p">
@@ -101,6 +137,10 @@ function ProjectShowcase() {
             />
             <h2>Title</h2>
             <p>Project Desc</p>
+            <div class="deployed_codebase">
+              <a href=""><i class="fas fa-globe"></i></a>
+              <a href=""><i class="fab fa-github"></i></a>
+            </div>
           </div> */}
         </div>
       </div>
