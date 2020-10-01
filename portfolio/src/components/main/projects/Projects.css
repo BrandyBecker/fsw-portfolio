@@ -1,0 +1,13 @@
+/* Variables */
+:root{
+    --main: #322f3d;
+    --secondary: #59405c;
+    --tertiary: #87556f;
+    --compliment: #4b5d67;
+}
+
+/* Website */
+.Projects{
+    background-color: var(--secondary);
+    width: 100%;
+}

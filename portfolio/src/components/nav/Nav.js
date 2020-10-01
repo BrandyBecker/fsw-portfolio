@@ -1,6 +1,7 @@
 import React from 'react';
 import './Nav.css';
 import profile from '../nav/pfp.png';
+import {Link} from 'react-router-dom'
 
 function Nav() {
   return (
@@ -21,10 +22,9 @@ function Nav() {
         <ul class="tabs">
 
           {/* use react router to link to the right pages & sections */}
-
-            <a href="#about"><li class="link">About Me</li></a>
-            <a href="#skills"><li class="link">Skills</li></a>
-            <li class="link">Projects</li>
+            <Link to="/"><li class="link">About Me</li></Link>
+            <Link to="/"><li class="link">Skills</li></Link>
+            <Link to="/projects"><li class="link">Projects</li></Link>
             <li class="link">Resume</li>
             <li class="link">Contact</li>
         </ul>

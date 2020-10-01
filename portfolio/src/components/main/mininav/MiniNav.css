@@ -1,0 +1,38 @@
+/* Variables */
+:root{
+    --main: #322f3d;
+    --secondary: #59405c;
+    --tertiary: #87556f;
+    --compliment: #4b5d67;
+}
+
+/* Wesbite */
+.MiniNav{
+    text-decoration: none;
+    text-align: right;
+    background-color: var(--main);
+}
+.MiniNav i{
+    margin: 2rem;
+    font-size: 1.5rem;
+    opacity: 0.5;
+    transition: 1s;
+    color: white;
+}
+.MiniNav i:hover{
+    opacity: 1;
+    transform: rotate(360deg);
+}
+.MiniNav a{
+    color: white;
+}
+
+/* Mobile */
+@media (max-width: 43em) {
+    .MiniNav{display:none;}
+}
+
+/* Tablet */
+@media (max-width: 62em) {
+    .MiniNav{display:none;}
+}
