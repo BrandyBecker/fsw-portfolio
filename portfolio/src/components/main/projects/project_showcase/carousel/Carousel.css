@@ -1,0 +1,52 @@
+/* Variables */
+:root{
+    --main: #322f3d;
+    --secondary: #59405c;
+    --tertiary: #87556f;
+    --compliment: #4b5d67;
+}
+
+/* Website */
+.carousel {
+    max-width: 100%;
+    margin: 0 7rem 0 7rem;
+    border: 1rem solid #94627c;
+    border-radius: 6rem;
+    box-shadow: 1rem 1rem #774B62;
+  }
+.links {
+    font-size: 1.5rem;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin: 1rem;
+}
+.ii {
+    font-size: 2rem;
+}
+.iii {
+    font-size: 0.8rem;
+}
+.carousel img{
+    border-radius: 5rem;
+}
+
+
+/* Mobile */
+@media (max-width: 43em) {
+    
+}
+
+/* Tablet */
+@media (max-width: 62em) {
+    .carousel {
+        margin: 0;
+        border: 0.5rem solid #684155;
+        border-radius: 3rem;
+        background-color: #684155;
+        font-size: 1rem;
+    }
+    .carousel img{
+        border-radius: 3rem;
+    }
+
+}
