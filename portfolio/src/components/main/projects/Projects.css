@@ -11,3 +11,18 @@
     background-color: var(--secondary);
     width: 100%;
 }
+.secondary{
+    margin-top: 8rem;
+}
+
+/* Mobile */
+@media (max-width: 43em) {
+    
+}
+
+/* Tablet */
+@media (max-width: 62em) {
+    .secondary{
+        margin-top: 0rem;
+    }
+}

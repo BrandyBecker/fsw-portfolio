@@ -8,8 +8,10 @@ function Main() {
   return (
     <div className="Main">
       <MiniNav/>
-      <About/>
-      <Skills/>
+      <div className="secondary">
+        <About/>
+        <Skills/>
+      </div>
     </div>
   );
 }

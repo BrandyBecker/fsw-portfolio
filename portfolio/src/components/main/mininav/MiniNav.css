@@ -10,7 +10,11 @@
 .MiniNav{
     text-decoration: none;
     text-align: right;
-    background-color: var(--main);
+    /* background-color: var(--main); */
+    background: linear-gradient(180deg, #322f3d , transparent);
+    position: fixed;
+    top: 0;
+    width: 74%;
 }
 .MiniNav i{
     margin: 2rem;
