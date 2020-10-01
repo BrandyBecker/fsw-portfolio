@@ -1,30 +1,110 @@
 import React from 'react';
 import './ProjectShowcase.css';
+import Carousel from "../carousel/Carousel.js";
 
 function ProjectShowcase() {
   return (
     <div className="ProjectShowcase" id="about">
-      <h1 class="showcasetitle">Projects</h1>
-      <div class="project_info">
-          <div class="project">
-            <h1>Name</h1>
-            <h2>Role</h2>
-            <img src=""/>
-            <p>What you did</p>
-          </div>
-          <div class="project">
-            <h1>Name</h1>
-            <h2>Role</h2>
-            <img src=""/>
-            <p>What you did</p>
-          </div>
-          <div class="project">
-            <h1>Name</h1>
-            <h2>Role</h2>
-            <img src=""/>
-            <p>What you did</p>
-          </div>
+      <div class="maintitle bubble">
+        <h1 class="showcasetitle">Most Recent Projects</h1>
+        <Carousel/>
       </div>
+      
+      <div class="projects_holder bubble">
+        <h1 class="showcasetitle">Other Projects</h1>
+        <div className="projects">
+          <div className="project">
+            <img
+              src="https://uploads.codesandbox.io/uploads/user/e710feef-8b3e-426f-8d96-9a3bfec5832e/iBKW-primary1.png"
+              alt="project"
+            />
+            <h2>Title</h2>
+            <p>Project Desc</p>
+          </div>
+
+          <div className="project">
+            <img
+              src="https://uploads.codesandbox.io/uploads/user/e710feef-8b3e-426f-8d96-9a3bfec5832e/iBKW-primary1.png"
+              alt="project"
+            />
+            <h2>Title</h2>
+            <p>Project Desc</p>
+          </div>
+
+          <div className="project">
+            <img
+              src="https://uploads.codesandbox.io/uploads/user/e710feef-8b3e-426f-8d96-9a3bfec5832e/iBKW-primary1.png"
+              alt="project"
+            />
+            <h2>Title</h2>
+            <p>Project Desc</p>
+          </div>
+
+          <div className="project">
+            <img
+              src="https://uploads.codesandbox.io/uploads/user/e710feef-8b3e-426f-8d96-9a3bfec5832e/iBKW-primary1.png"
+              alt="project"
+            />
+            <h2>Title</h2>
+            <p>Project Desc</p>
+          </div>
+
+          <div className="project">
+            <img
+              src="https://uploads.codesandbox.io/uploads/user/e710feef-8b3e-426f-8d96-9a3bfec5832e/iBKW-primary1.png"
+              alt="project"
+            />
+            <h2>Title</h2>
+            <p>Project Desc</p>
+          </div>
+
+          <div className="project p">
+            <img
+              src="https://uploads.codesandbox.io/uploads/user/e710feef-8b3e-426f-8d96-9a3bfec5832e/iBKW-primary1.png"
+              alt="project"
+            />
+            <h2>Title</h2>
+            <p>Project Desc</p>
+          </div>
+
+          {/* <div className="project p">
+            <img
+              src="https://uploads.codesandbox.io/uploads/user/e710feef-8b3e-426f-8d96-9a3bfec5832e/iBKW-primary1.png"
+              alt="project"
+            />
+            <h2>Title</h2>
+            <p>Project Desc</p>
+          </div>
+
+          <div className="project p">
+            <img
+              src="https://uploads.codesandbox.io/uploads/user/e710feef-8b3e-426f-8d96-9a3bfec5832e/iBKW-primary1.png"
+              alt="project"
+            />
+            <h2>Title</h2>
+            <p>Project Desc</p>
+          </div>
+
+          <div className="project p">
+            <img
+              src="https://uploads.codesandbox.io/uploads/user/e710feef-8b3e-426f-8d96-9a3bfec5832e/iBKW-primary1.png"
+              alt="project"
+            />
+            <h2>Title</h2>
+            <p>Project Desc</p>
+          </div>
+
+          <div className="project p">
+            <img
+              src="https://uploads.codesandbox.io/uploads/user/e710feef-8b3e-426f-8d96-9a3bfec5832e/iBKW-primary1.png"
+              alt="project"
+            />
+            <h2>Title</h2>
+            <p>Project Desc</p>
+          </div> */}
+        </div>
+      </div>
+      
     </div>
   );
 }
