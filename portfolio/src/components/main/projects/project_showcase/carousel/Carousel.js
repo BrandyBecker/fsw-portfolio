@@ -23,7 +23,12 @@ function ControlledCarousel() {
           <Carousel.Caption>
             <h3>First slide label</h3>
             <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+            <div class="deployed_codebase">
+              <a href=""><i class="fas fa-globe"></i></a>
+              <a href=""><i class="fab fa-github"></i></a>
+            </div>
           </Carousel.Caption>
+          
         </Carousel.Item>
         <Carousel.Item>
           <img
@@ -35,6 +40,10 @@ function ControlledCarousel() {
           <Carousel.Caption>
             <h3>Second slide label</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            <div class="deployed_codebase">
+              <a href=""><i class="fas fa-globe"></i></a>
+              <a href=""><i class="fab fa-github"></i></a>
+            </div>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
@@ -49,6 +58,10 @@ function ControlledCarousel() {
             <p>
               Praesent commodo cursus magna, vel scelerisque nisl consectetur.
             </p>
+            <div class="deployed_codebase">
+              <a href=""><i class="fas fa-globe"></i></a>
+              <a href=""><i class="fab fa-github"></i></a>
+            </div>
           </Carousel.Caption>
         </Carousel.Item>
       </Carousel>

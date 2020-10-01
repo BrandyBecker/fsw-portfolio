@@ -7,7 +7,9 @@ function Projects() {
   return (
     <div className="Projects">
       <MiniNav/>
-      <ProjectShowcase/>
+      <div class="secondary">
+        <ProjectShowcase/>
+      </div>
     </div>
   );
 }
