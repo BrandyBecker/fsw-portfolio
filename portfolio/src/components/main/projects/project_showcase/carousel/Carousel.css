@@ -11,7 +11,7 @@
     max-width: 100%;
     margin: 0 7rem 0 7rem;
     border: 1rem solid #94627c;
-    border-radius: 6rem;
+    /* border-radius: 6rem; */
     box-shadow: 1rem 1rem #774B62;
   }
 .links {
@@ -27,7 +27,7 @@
     font-size: 0.8rem;
 }
 .carousel img{
-    border-radius: 5rem;
+    /* border-radius: 5rem; */
 }
 
 .deployed_codebase{
@@ -50,7 +50,15 @@
 
 /* Mobile */
 @media (max-width: 43em) {
-    
+    .carousel{
+        height: 10rem;
+    }
+    .deployed_codebase a i {
+        font-size: 1.5rem;
+    }
+    .carousel h3{
+        font-size: 1.4rem;
+    }
 }
 
 /* Tablet */
@@ -58,14 +66,14 @@
     .carousel {
         margin: 0;
         border: 0.5rem solid #684155;
-        border-radius: 3rem;
+        /* border-radius: 3rem; */
         background-color: #684155;
         font-size: 1rem;
         height: 20rem;
         box-shadow: none;
     }
     .carousel img{
-        border-radius: 3rem;
+        /* border-radius: 3rem; */
         height: 19rem;
     }
     
